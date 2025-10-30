@@ -104,8 +104,8 @@ Full CRUD system with JWT authentication, comments, and RESTful API using Django
 ### 🌍 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/affilpm" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:affilpm@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/affil-p-m-b9a2b2299" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="mailto:affilpm2004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" /></a>
   <a href="https://github.com/affilpm"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white&style=for-the-badge" /></a>
 </p>
 
