@@ -60,19 +60,27 @@ Full CRUD system with JWT authentication, comments, and RESTful API using Django
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=affilpm&show_icons=true&theme=radical" alt="affilpm GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=affilpm&layout=compact&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=affilpm&show_icons=true&theme=radical" alt="affilpm's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=affilpm&layout=compact&theme=radical" alt="Top Languages" height="165" />
 </p>
 
 ---
 
-### 🔥 Streak Stats  
+## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=affilpm&theme=radical&hide_border=true" alt="affilpm GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=affilpm&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=affilpm&theme=radical&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 
 ---
